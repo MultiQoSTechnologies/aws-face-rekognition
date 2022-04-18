@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AWS-Face-Rekognition
 //
-//  Created by MQF-1 on 18/04/22.
+//  Created by Krishna Soni on 18/04/22.
 //
 
 import UIKit
